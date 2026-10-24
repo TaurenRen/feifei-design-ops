@@ -25,7 +25,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 GH = os.environ.get("GH_EXE") or r"D:/WorkBuddy/.workbuddy/binaries/tools/bin/gh.exe"
 OWNER = os.environ.get("GH_OWNER") or "TaurenRen"
-NAME = os.environ.get("GH_NAME") or "huashu-design-ops"
+NAME = os.environ.get("GH_NAME") or "feifei-design-ops"
 REPO = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 TMP = os.path.join(REPO, ".sync-tmp")
 MAX_BLOB = 40 * 1024 * 1024      # 单个文件上限，超过的跳过（GitHub API 限制更严，见下）

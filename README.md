@@ -1,4 +1,4 @@
-# huashu-design-ops
+# feifei-design-ops
 
 花叔 [`huashu-design`](https://github.com/alchaincyf/huashu-design) 3.0 的**落地增强层**：让它在你这台机器上真能跑通，并且导出物在交付前能被证明是对的。
 
@@ -33,8 +33,8 @@ MIT。上游也是 MIT，本仓库只引用不复制上游代码。
 ## 快速开始
 
 ```bash
-git clone https://github.com/TaurenRen/huashu-design-ops.git
-cd huashu-design-ops
+git clone https://github.com/TaurenRen/feifei-design-ops.git
+cd feifei-design-ops
 
 # 1. 体检（30 秒，只看不动）
 python scripts/doctor.py --skill <你的 huashu-design 目录>

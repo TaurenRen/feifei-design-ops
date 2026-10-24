@@ -1,5 +1,5 @@
 ---
-name: huashu-design-ops
+name: feifei-design-ops
 description: 花叔 huashu-design（3.0）在本机的落地与加固层：开工前环境体检与修复、把 CLI 真正跑通、修单文件 deck 导 PPTX 丢字、动效渲染兜底、交付前产物复核、录屏取证。触发词：huashu-design、花叔设计、三方向门、design_lint、外观账本、pptx_from_rendered、ref_board、导出的 PPT 丢字、deck-stage 导出、render-video 报错、No webm produced、设计体检红灯、实测一个 agent skill。
 metadata:
   upstream: "alchaincyf/huashu-design 3.0.0"
@@ -8,7 +8,7 @@ metadata:
   tested_scope: "网页 / deck+PDF+PPTX / 信息图 / App 原型 / 6s 动效 / 三件事 / 参考板 / 84 风格库 / 体检 / 账本"
 ---
 
-# huashu-design 落地层 · ops
+# feifei-design-ops · huashu-design 落地层
 
 上游 `huashu-design` 是设计方法论 skill（怎么想、怎么过三方向门、怎么体检）。
 这份是**跑起来的那层**：环境、CLI 真实参数、导出链的坑、交付前复核、取证。
