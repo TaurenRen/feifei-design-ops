@@ -1,5 +1,7 @@
 # feifei-design-ops
 
+> 命名：`feifei-` 是本仓库的前缀（我的开源项目统一用它）；`huashu-design` 是被测的上游项目，名字不改。
+
 花叔 [`huashu-design`](https://github.com/alchaincyf/huashu-design) 3.0 的**落地增强层**：让它在你这台机器上真能跑通，并且导出物在交付前能被证明是对的。
 
 上游是设计方法论（三方向门、84 种带样张的风格库、外观账本、设计体检）。这份不重复它的方法论，只补三类东西：
